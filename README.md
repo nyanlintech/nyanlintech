@@ -24,9 +24,9 @@ A full-stack software engineer based in Portland, OR.
 
 > Full-stack developer building client web apps, payment integrations, admin tooling, and internal dashboards.
 
-- Reduced BatchGeo admin portal response time from ~4s to under ~1s by refactoring MySQL queries and adding targeted indexes.
-- Implemented Braintree 3D Secure support to help ensure PSD2 compliance and protect ~$200K/month in payment transaction volume.
-- Rebuilt a Bootstrap-based admin portal frontend and built Chart.js dashboards for a finance investment tracking application.
+> - Optimized BatchGeo admin portal performance with MySQL query refactors and indexes.<br>
+> - Integrated Braintree 3D Secure for PSD2-compliant BatchGeo checkout.<br>
+> - Built Bootstrap admin views and a Chart.js finance tracking application.
 
 ##
 #### 📚 Currently exploring
