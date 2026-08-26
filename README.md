@@ -1,34 +1,46 @@
-### Hi, I'm Nyan 👋
+#### Hi, I'm Nyan 👋
 
-A full-stack software engineer based in Portland, OR.
+> Full-stack software engineer based in Portland, OR 🌲
 
-##
-#### ⚙️ Most recently at Movable Ink (MarTech SaaS):
+> I enjoy building end-to-end systems, digging into performance and reliability problems, and creating tooling that makes developers' lives easier.
+> My background spans **React, Node.js, AWS serverless systems, APIs, data ingestion, batch file processing, and developer tooling**.
 
-> I worked cross-functionally with client stakeholders at United Airlines and Hawaiian Airlines to deliver real-time email personalization solutions aligned with business goals, resulting in triple-digit engagement growth. I built the frontend applications, ingestion pipelines, and workflow orchestration systems powering those experiences: https://movableink.com/resources/case-studies
+#### ⚙️ Most recently at Movable Ink
 
-🧩 Built full-stack personalization systems end-to-end
+> I worked on client-facing engineering for a large-scale MarTech SaaS platform, building personalized digital experiences and the systems that powered them.
 
-> Developed React-based Studio apps, data ingestion pipelines, and AWS serverless workflows that transformed client data into dynamic email experiences for enterprise marketing campaigns.
+#### 🧩 Built personalization systems end-to-end
 
-##### 💰 Led AWS serverless cost optimization, saving ~$86K annually
+> Built **React applications, data ingestion workflows, API integrations, and AWS serverless systems** that transformed behavioral and third-party data into real-time personalized experiences for enterprise clients.
+>
+> Worked cross-functionally on campaigns for brands including Amazon Music and United Airlines, contributing to personalized experiences that drove significant engagement growth.
+>
+> [View Movable Ink case studies](https://movableink.com/resources/case-studies)
 
-> Led the optimization of a production Step Functions workflow by removing unnecessary dependencies, improving credential handling, and reducing Lambda memory allocation by 50%, cutting daily compute costs by ~43% and saving approximately $21.5K per quarter.
+#### 💰 Reduced AWS infrastructure costs by ~$86K/year
 
-##### 🔧 Built tooling to improve developer experience and standardize processes
+> Led optimization of a production **AWS Step Functions + Lambda** workflow processing real-time analytics events.
+>
+> * Reduced Lambda memory allocation by 50%
+> * Removed unnecessary network dependencies
+> * Improved credential caching and execution-context reuse
+> * Reduced daily compute costs by ~43%
+> * Saved approximately **$21.5K per quarter**
 
-> Built internal bash scripts, Chrome extension tooling, CSV ingestion testing tools, and cross-functional QA tools that improved repo setup, local workflow validation, and scenario-based testing across Movable Ink Studio app implementations.
+#### 🔧 Built developer tooling
 
-## 
+> Built internal tools to improve development, testing, and troubleshooting workflows, including:
+>
+> * (Chrome extension + Bash) Git workflow automation
+> * AWS CSV ingestion feasibility testing tool
+> * Shareable scenario-based QA tooling for multi-case testing
+> * AI-assisted ticket investigation and PR validation workflows
+
 #### 🏗️ Previously at SlideFactory
 
-> Full-stack developer building client web apps, payment integrations, admin tooling, and internal dashboards.
-
-> - Optimized BatchGeo admin portal performance with MySQL query refactors and indexes.<br>
-> - Integrated Braintree 3D Secure for PSD2-compliant BatchGeo checkout.<br>
-> - Built Bootstrap admin views and a Chart.js finance tracking application.
-
-##
-#### 📚 Currently exploring
-
-> Golang, distributed systems, streaming data, and backend architecture patterns for data-intensive applications.
+> Worked as a full-stack developer building client applications, payment integrations, and admin dashboards.
+>
+> * Optimized BatchGeo admin performance through MySQL query and indexing improvements
+> * Integrated **Braintree 3D Secure** for PSD2-compliant checkout
+> * Built admin interfaces with Bootstrap and JavaScript
+> * Built financial data visualizations with Chart.js
